@@ -51,8 +51,8 @@ I approach software design with **intention and structure**, aiming to create to
 
 ## 🔗 Let's Connect
 
-- 🐦 [@dennismwagiru](https://twitter.com/dennismwagiru)
-- 💼 [LinkedIn](https://linkedin.com/in/dennismwagiru)
+- 🐦 [@dennismwagiru](https://twitter.com/dennismwagiru){:target="_blank"}
+- 💼 [LinkedIn](https://linkedin.com/in/dennismwagiru){:target="_blank"}
 - ✉️ [dennismwagiru@gmail.com](mailto:dennismwagiru@gmail.com)
 
 ---
