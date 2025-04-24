@@ -4,9 +4,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend-PHP%20%7C%20Python-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Frameworks-Laravel%20%7C%20Django%20%7C%20Vue-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Huawei%20Cloud%20%7C%20GCP-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Backend-PHP%20%7C%20Python%20%7C%20Typescript%20%7C%20Golang-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Frameworks-Laravel%20%7C%20Django%20%7C%20ReactJs%20%7C%20NestJs%20%7C%20Vue-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure%20%7C%20Huawei%20Cloud%20%7C%20GCP-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/DevOps-CI%2FCD%20%7C%20Docker%20%7C%20Kafka-yellow?style=flat-square" />
 </p>
 
